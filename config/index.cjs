@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ocHd75u00w_g0qqm8ZwIjQiinfQc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xP_pZWco8jQ6NXYounxW1WSDxHMFzsfGGgtsRYqROno',
+      useTemplateId: 'yUPzp8w8fk4VCaXfJACcJmL224DVRztVXca81Z7KHok',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '06-16',
       festivals: [
@@ -50,7 +50,7 @@ const USER_CONFIG = {
     {
       name: '李茂冉',
       id: 'ocHd75u00w_g0qqm8ZwIjQiinfQc',
-      useTemplateId: 'xP_pZWco8jQ6NXYounxW1WSDxHMFzsfGGgtsRYqROno',
+      useTemplateId: 'yUPzp8w8fk4VCaXfJACcJmL224DVRztVXca81Z7KHok',
       province: '陕西',
       city: '西安',
       horoscopeDate: '',
